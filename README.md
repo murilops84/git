@@ -5,3 +5,5 @@
 - Paragraph in commit "2"
 
 - Paragraph "3"
+
+- Paragraph "4"
